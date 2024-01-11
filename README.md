@@ -1,4 +1,3 @@
-Certainly! Below is the README.md file with information presented in boxes and emojis:
 
 ```markdown
 # 🚀 Flask Firebase Authentication and Dashboard
@@ -7,11 +6,12 @@ This is a simple Flask project that demonstrates user authentication using Fireb
 
 ## 📦 Project Structure
 
-```
+
 .
 ├── app.py                 # Main Flask application file
 ├── templates/             # Folder containing HTML templates
 └── static/                # Folder for static assets (CSS, JavaScript)
+```
 ```
 
 ## ⚙️ Setup
