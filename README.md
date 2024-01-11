@@ -5,11 +5,12 @@
 This is a simple Flask project that demonstrates user authentication using Firebase and includes a basic user dashboard.
 
 ## 📦 Project Structure
+```
 .
 ├── app.py                 # Main Flask application file
 ├── templates/             # Folder containing HTML templates
 └── static/                # Folder for static assets (CSS, JavaScript)
-
+```
 
 ## ⚙️ Setup
 
